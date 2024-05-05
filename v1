@@ -1,0 +1,7 @@
+# A pig latin encryption - This script takes inputted text and returns the text in (mostly) correct pig latin encryption.
+
+# Rule 1: If the word starts with a consonant, move the consonant to the word's end, and add "ay" to the word's end.
+# Rule 2: If the word starts with a vowel, add "way" to the word's end.
+# Rule 3: Separate compounded words (two words connected by "-") before applying Rules 1-2.
+
+print ("Pig Latin encryptor")
